@@ -1,4 +1,5 @@
 Firstly, you should create a AssemblyAI account to have API key for transcript: https://www.assemblyai.com/dashboard/signup
+
 ![example1](/imgs/api_key.png)
 
 This only transcribe to English but I transcribe to Vietnamese, so the .txt file like this:

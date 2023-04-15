@@ -5,5 +5,6 @@ Secondly, you need to insert Podcast objects for each podcast that you want to p
 Finally, you can check run_all.ipynb to know how it work. Have fun!!
 
 Here is the result:
-/imgs/downloads.png
-/imgs/transcripts.png
+![example1](/imgs/downloads.png)
+![example1](/imgs/transcripts.png)
+

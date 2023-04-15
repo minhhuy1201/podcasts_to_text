@@ -4,7 +4,7 @@ import time
 import requests
 from podcast_class import Podcast
 
-api_key = os.environ['ASSEMLY_AI_KEY']
+api_key = "YOUR_API_KEY"
 
 def create_transcripts(podcast_list, **kwargs):
 	all_transcription_metadata = {}
